@@ -9,15 +9,15 @@ PETs_2025_Slides.pptx
 
 ### Input Attack
 
-Filename : 'input_attack.py'
+• Filename : 'input_attack.py'
 
 ### Output Attack
 
-Filename : 'output_attack.py'
+• Filename : 'output_attack.py'
 
 ### Multi-modal Attack
 
-Filename : 'input_output_attack.py'
+• Filename : 'input_output_attack.py'
 
 ### Execution Process:
 
