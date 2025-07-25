@@ -5,7 +5,8 @@
 ### Slides : 
 PETs_2025_Slides.pptx
 
-### Presentation :
+### Presentation Video:
+
 
 ### Input Attack
 
@@ -20,3 +21,10 @@ Filename :
 Filename :
 
 
+### Execution Process:
+
+Download all the '*.py' folders into one directory. Open a terminal in this directory and run :
+
+For Input Attack : 'python input_attack.py'
+Four Output Attack : 'python output_attack.py'
+For Multi-modal Attack : 'python input_output_attack.py'
